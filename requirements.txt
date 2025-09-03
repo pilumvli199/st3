@@ -1,0 +1,7 @@
+smartapi-python
+pyotp
+pandas
+requests
+schedule
+python-dotenv
+openai
